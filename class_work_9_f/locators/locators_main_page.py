@@ -16,6 +16,3 @@ class MainPage(WebPage):
     btn_headers_hosting = WebElement(xpath='//div[@id="menu-item"]//span[contains(text(),"Хостинг")]')
     btn_headers_cloud = WebElement(xpath='//div[@id="menu-item"]//span[contains(text(),"Облако")]')
     btn_headers_mail = WebElement(xpath='//div[@id="menu-item"]//span[contains(text(),"Почта")]')
-    btn_pip_up_cookie = WebElement(xpath='//*[@id="accept"]')
-    input_form = WebElement(xpath='//*[@placeholder="Введите домены"]')
-    button_click = WebElement(xpath='/html/body/div[8]/div[1]/div[1]/div/div[1]/div[2]/div[2]/button/span')
