@@ -564,7 +564,7 @@ body.scrolled .header--navbar {
     content: " ";
     position: absolute;
     left: 0;
-    bottom: 20px;
+    bottom: 10px;
     width: 0;
     height: 1px;
     background-color: #303030;
