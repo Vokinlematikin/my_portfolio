@@ -235,6 +235,26 @@ p:last-child {
 }
 
 /* 1.5. BUTTONS */
+
+.btn--primary1 {
+    display: inline-block;
+    padding: 11px 29px 11px 29px;
+    border: 2px solid transparent;
+    border-radius: 0;
+    font-size: 16px;
+    line-height: 22px;
+    font-weight: 700;
+    color: #303030;
+    border-color: #303030;
+    background-color: transparent;
+}
+
+.btn--default1 {
+    color: #303030;
+    border-color: #303030;
+    background-color: transparent;
+}
+
 .btn--default, .btn--primary {
     display: inline-block;
     padding: 16px 30px 15px 29px;
